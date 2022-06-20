@@ -1,8 +1,6 @@
 ### Olá. Meu nome é Guilherme Almeida
 
 
-Here are some ideas to get you started:
-
 - 🔭 Atualmente trabalho como Suporte de TI.
 - 🌱 Estou aprendendo HTML, CSS e JavaScript.
 - 😄 Pronouns: Ele/Dele | He/Him
