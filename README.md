@@ -1,8 +1,8 @@
 ### Olá. Meu nome é Guilherme Almeida
 
 
-- 🔭 Atualmente trabalho como Suporte de TI.
-- 🌱 Estou aprendendo HTML, CSS e JavaScript.
+- 🔭 Atualmente trabalho como Desenvolvedor Front-End na MadeiraMadeira
+- 🌱 HTML, CSS, JavaScript, React e aprendendo Node.
 - 😄 Pronouns: Ele/Dele | He/Him
 - ✉️ guilherme_lima02@hotmail.com / guilherme.alm0202@gmail.com
 
